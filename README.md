@@ -4,7 +4,7 @@ This tutorial is Python for Absolute Beginner, and heavily referenced to W3Schoo
 
 Source Code:
 https://github.com/inspire-hk/python-beginner-tutorial
-https://replit.com/@alextsuihk/Python-for-Beginners
+https://replit.com/@alextsuihk/python-for-beginners
 
 ## Course Outline
 
